@@ -1,2 +1,2 @@
-# luyentiendzung.github.io
+# luyentiendung.github.io
 Personal website
